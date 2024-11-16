@@ -1,0 +1,103 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./app/componants/school/school .module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+
+@font-face {
+    font-family: myFont;
+    src: url(/DGEnab-Regular.ttf);
+  }
+.school__natega___HRqI
+{
+    margin-top: 10px;
+font-size: larger;
+}
+
+
+
+.school__contener__GwnZe
+
+{ 
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: #0000006f;
+    width: 800px;
+    height: auto;
+    border-radius: 20px;
+    border: solid black 2px;
+    font-family: myFont;
+    font-size: x-large;
+}
+.school__container__FYKyc {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: myFont;
+    font-size: x-large;
+}
+
+.school__inputGroup__C8RRQ {
+    margin-bottom: 15px;
+    text-align: left;
+    font-size: x-large;
+   
+}
+
+.school__label__arWuQ {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    float: right;
+}
+
+.school__input__8yVjb {
+    width: 100%;
+    padding: 8px;
+  background-color: #ddd;
+  color: black;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+.school__buttonGroup__GI0wi {
+    margin-top: 20px;
+}
+
+.school__button__eE1G7 {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background: #FF8DC4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.school__button__eE1G7:hover {
+    background: #e470a8;
+    transform: scale(1.1);
+}
+
+.school__result__F9ZJa {
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    margin-top: 10px;
+}
+
+.school__success__14Er4 {
+    color: green;
+}
+
+.school__failure__GDakh {
+    color: red;
+}
+
+

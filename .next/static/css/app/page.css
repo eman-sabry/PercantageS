@@ -1,0 +1,73 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./app/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
+
+@font-face {
+  font-family: myFont;
+  src: url(/DGEnab-Regular.ttf);
+}
+.page_main__nw1Wk {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+background-image: url(/Untitled-2-01.png);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;    
+  background-attachment: fixed;
+
+}
+
+
+
+.page_center__NcdcW
+{
+
+  padding: 100px;
+justify-content: center;
+text-align: center;
+  width: 800px;
+  height: 500px;
+  margin: auto;
+  background-color:#ff8dc470;
+  border-radius: 20px;
+    border: solid rgb(0, 0, 0) 2px;
+    color: rgb(0, 0, 0);
+    font-family: myfont;
+    font-size: 30px;
+}
+.page_btn__hMGYV
+{
+  width: 300px;
+  height: 50px;
+  margin-top:20px ;
+  border-radius:10px ;
+  color: rgb(255, 255, 255);
+  background-color: #FF8DC4;
+}
+.page_btn__hMGYV:hover{
+  background-color: #f96aaf;
+  transform: scale(1.1);
+}
+@media (min-width:770px)and (max-width:990px) {
+  .page_center__NcdcW
+  {
+    width: 600px;
+    height: 400px;
+  }
+}
+@media (min-width:500px)and (max-width:770px) {
+  .page_center__NcdcW
+  {
+    width: 400px;
+    height: 400px;
+
+  }
+  .page_btn__hMGYV
+  { width: 200px;
+  font-size: 20px;}
+}
+
